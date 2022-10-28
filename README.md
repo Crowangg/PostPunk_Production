@@ -1,3 +1,3 @@
-# PostPunk_Production
+28.10.2022
 
-Developed with Unreal Engine 5
+Пофиксил баг с ходьбой, почти доделал стрельбу 
