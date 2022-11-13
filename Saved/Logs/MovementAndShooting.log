@@ -1493,3 +1493,167 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.13-09.30.47:529][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2022.11.13-09.30.47:540][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
 [2022.11.13-09.30.47:687][157]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.11.13-09.44.47:130][436]LogDerivedDataCache: C:/Users/golub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.152 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.13-09.46.39:914][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-09.46.39:925][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-09.46.39:926][214]PIE: New page: PIE session: MovingAndShooting (13 нояб. 2022 г., 17:46:39)
+[2022.11.13-09.46.39:926][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.46.39:937][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010877s)
+[2022.11.13-09.46.39:937][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MovingAndShooting.MovingAndShooting to /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting (0.011010s)
+[2022.11.13-09.46.39:937][214]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-09.46.39:937][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-09.46.39:938][214]LogAIModule: Creating AISystem for world MovingAndShooting
+[2022.11.13-09.46.39:938][214]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2022.11.13-09.46.40:037][214]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2022.11.13-09.46.40:039][214]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-09.46.40:039][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-09.46.40:039][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-09.46.40:040][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-09.46.40:040][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-09.46.40:040][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-09.46.40:043][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-09.46.40:086][214]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.13-09.46.40:087][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-09.46.40:087][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-09.46.40:087][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-09.46.40:088][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.11.13-09.46.40:088][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.11.13-09.46.40:090][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.11.13-09.46.40:090][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.11.13-09.46.40:090][214]LogInit: FAudioDevice initialized.
+[2022.11.13-09.46.40:090][214]LogAudio: Display: Audio Device (ID: 12) registered with world 'MovingAndShooting'.
+[2022.11.13-09.46.40:109][214]LogLoad: Game class is 'GameModeBase'
+[2022.11.13-09.46.40:113][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting up for play (max tick rate 0) at 2022.11.13-13.46.40
+[2022.11.13-09.46.40:114][214]LogWorld: Bringing up level for play took: 0.004433
+[2022.11.13-09.46.40:116][214]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.11.13-09.46.40:119][214]PIE: Server logged in
+[2022.11.13-09.46.40:121][214]PIE: Play in editor total start time 0,195 seconds.
+[2022.11.13-09.49.02:838][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.49.02:838][190]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.49.02:838][190]LogWorld: UWorld::CleanupWorld for MovingAndShooting, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-09.49.02:839][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.49.02:857][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-09.49.02:873][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.49.02:969][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.49.02:971][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.13-09.49.02:974][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.13-09.49.02:986][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.11.13-09.49.03:166][191]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.11.13-09.49.22:708][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-09.49.22:721][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-09.49.22:721][313]PIE: New page: PIE session: MovingAndShooting (13 нояб. 2022 г., 17:49:22)
+[2022.11.13-09.49.22:722][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.49.22:733][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011094s)
+[2022.11.13-09.49.22:733][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MovingAndShooting.MovingAndShooting to /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting (0.011244s)
+[2022.11.13-09.49.22:733][313]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-09.49.22:733][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-09.49.22:734][313]LogAIModule: Creating AISystem for world MovingAndShooting
+[2022.11.13-09.49.22:734][313]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2022.11.13-09.49.22:830][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.11.13-09.49.22:832][313]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-09.49.22:832][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-09.49.22:832][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-09.49.22:833][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-09.49.22:833][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-09.49.22:833][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-09.49.22:836][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-09.49.22:889][313]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.13-09.49.22:889][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-09.49.22:889][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-09.49.22:889][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-09.49.22:890][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.11.13-09.49.22:890][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.11.13-09.49.22:893][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.11.13-09.49.22:893][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.11.13-09.49.22:893][313]LogInit: FAudioDevice initialized.
+[2022.11.13-09.49.22:893][313]LogAudio: Display: Audio Device (ID: 13) registered with world 'MovingAndShooting'.
+[2022.11.13-09.49.22:911][313]LogLoad: Game class is 'GameModeBase'
+[2022.11.13-09.49.22:916][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting up for play (max tick rate 0) at 2022.11.13-13.49.22
+[2022.11.13-09.49.22:916][313]LogWorld: Bringing up level for play took: 0.004948
+[2022.11.13-09.49.22:920][313]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.11.13-09.49.22:923][313]PIE: Server logged in
+[2022.11.13-09.49.22:924][313]PIE: Play in editor total start time 0,203 seconds.
+[2022.11.13-09.49.32:277][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.49.32:277][ 62]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.49.32:277][ 62]LogWorld: UWorld::CleanupWorld for MovingAndShooting, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-09.49.32:278][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.49.32:294][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-09.49.32:307][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.49.32:394][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.49.32:395][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.13-09.49.32:397][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.13-09.49.32:408][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.11.13-09.49.32:545][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.11.13-09.50.12:801][ 56]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.11.13-09.50.12:801][ 56]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.11.13-09.50.23:539][472]BlueprintLog: New page: Compile BP_Character
+[2022.11.13-09.50.23:728][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.11.13-09.50.43:335][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Character" FILE="../../../../Projects/PostPunk_Production/Content/Blueprints/BP_Character.uasset" SILENT=true
+[2022.11.13-09.50.43:417][630]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Character
+[2022.11.13-09.50.43:418][630]LogSavePackage: Moving '../../../../Projects/PostPunk_Production/Saved/BP_Character0BF9E03942FC41312890B7933EBE26E4.tmp' to '../../../../Projects/PostPunk_Production/Content/Blueprints/BP_Character.uasset'
+[2022.11.13-09.50.43:456][630]AssetCheck: New page: Asset Save: BP_Character
+[2022.11.13-09.50.43:456][630]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2022.11.13-09.50.44:838][737]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.13-09.50.44:854][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.13-09.50.44:854][737]PIE: New page: PIE session: MovingAndShooting (13 нояб. 2022 г., 17:50:44)
+[2022.11.13-09.50.44:854][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.50.44:865][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011040s)
+[2022.11.13-09.50.44:865][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MovingAndShooting.MovingAndShooting to /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting (0.011189s)
+[2022.11.13-09.50.44:865][737]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-09.50.44:865][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-09.50.44:866][737]LogAIModule: Creating AISystem for world MovingAndShooting
+[2022.11.13-09.50.44:866][737]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2022.11.13-09.50.44:966][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.11.13-09.50.44:973][737]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-09.50.44:973][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-09.50.44:973][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-09.50.44:974][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-09.50.44:974][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-09.50.44:974][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-09.50.44:977][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-09.50.45:031][737]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.13-09.50.45:031][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-09.50.45:031][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-09.50.45:032][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-09.50.45:033][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.11.13-09.50.45:033][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.11.13-09.50.45:035][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.11.13-09.50.45:035][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.11.13-09.50.45:035][737]LogInit: FAudioDevice initialized.
+[2022.11.13-09.50.45:035][737]LogAudio: Display: Audio Device (ID: 14) registered with world 'MovingAndShooting'.
+[2022.11.13-09.50.45:051][737]LogLoad: Game class is 'GameModeBase'
+[2022.11.13-09.50.45:055][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MovingAndShooting.MovingAndShooting up for play (max tick rate 0) at 2022.11.13-13.50.45
+[2022.11.13-09.50.45:056][737]LogWorld: Bringing up level for play took: 0.004597
+[2022.11.13-09.50.45:059][737]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.11.13-09.50.45:062][737]PIE: Server logged in
+[2022.11.13-09.50.45:064][737]PIE: Play in editor total start time 0,213 seconds.
+[2022.11.13-09.51.19:826][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.51.19:826][830]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MovingAndShooting
+[2022.11.13-09.51.19:826][830]LogWorld: UWorld::CleanupWorld for MovingAndShooting, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-09.51.19:827][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.51.19:844][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-09.51.19:856][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-09.51.19:960][830]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-09.51.19:960][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.13-09.51.19:964][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.13-09.51.19:969][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-09.51.19:975][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.11.13-09.51.20:076][831]LogPlayLevel: Display: Destroying online subsystem :Context_23
