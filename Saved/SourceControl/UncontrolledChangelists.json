@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"W:/UnrealEngine5/Projects/PostPunk_Production/Content/Maps/73ddyMap.umap",
+				"W:/UnrealEngine5/Projects/PostPunk_Production/Content/Blueprints/BP_Character.uasset",
 				"A:/Program Files (x86)/Projects/PP/PostPunk_Production/Content/Maps/IvanS_map_AI.umap",
 				"A:/Program Files (x86)/Projects/PP/PostPunk_Production/Content/Blueprints/AI_Controller_Enemy.uasset",
 				"A:/Program Files (x86)/Projects/PP/PostPunk_Production/Content/Blueprints/EnemyTest.uasset",
